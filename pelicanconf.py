@@ -40,7 +40,7 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 # Theme
-THEME = "Casper2Pelican"
+THEME = "../Casper2Pelican"
 
 # CNAME
 STATIC_PATHS = ['images', 'extra/CNAME']
