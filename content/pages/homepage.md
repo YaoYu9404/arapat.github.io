@@ -8,8 +8,12 @@ Before coming to UCSD, I received my Bachelor degree in Computer Science from [F
 Email: <script language="JavaScript">var username = "jalafate"; var hostname = "eng.ucsd.edu"; var linktext = username + "@" + hostname ; document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" + linktext + "</a>");</script><br/>
 Office: EBU3B 4142
 
-### Links
-
-*   [My GitHub page](https://github.com/arapat/)
-*   [Research notes (limited access)](https://sites.google.com/eng.ucsd.edu/julaiti)
-
+<div class="social">
+  <ul class="social">
+    <li>
+      <a class="sc-github" href="https://github.com/arapat/" target="_blank">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  </ul>
+</div>
