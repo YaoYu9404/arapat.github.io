@@ -116,3 +116,30 @@
 .post.page:after{
     display: none;
 }
+
+.social ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-size: 1.6em;
+}
+
+.social ul li {
+    display: inline;
+}
+
+.social ul li a:hover {
+    z-index: 2;
+    -webkit-transform: translateY(-2px);
+    transform: translateY(-2px);
+}
+
+.social ul li a {
+    display: inline-block;
+    width: 36px;
+    height: 36px;
+    border-radius: 100%;
+    text-align: center;
+    font-size: .8em;
+    line-height: 36px;
+}
