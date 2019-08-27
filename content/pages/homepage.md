@@ -6,7 +6,9 @@ I am a PhD student in the [Department of Computer Science and Engineering](http:
 Before coming to UCSD, I received my Bachelor degree in Computer Science from [Fudan University](http://www.fudan.edu.cn/en/) in 2014.
 
 Email: <script language="JavaScript">var username = "jalafate"; var hostname = "eng.ucsd.edu"; var linktext = username + "@" + hostname ; document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" + linktext + "</a>");</script><br/>
-Office: EBU3B 4142
+Office: EBU3B 4142<br/>
+
+[Research notes](https://docs.google.com/document/d/1xYiprPuG6BgZJAqMHOa1iI5_mujpk2qDeBLaeDMsptU/)
 
 <div class="social">
   <ul class="social">
